@@ -6,11 +6,12 @@
 𓂃🪶 *Diz a lenda que usei um vira-tempo para combinar Tecnologia e Psicologia no mesmo currículo! ⏳✨*
 
 ---
-👋 Oi, meu nome é Silvia, sou de Curitiba/PR e uma eterna curiosa no universo tech.
+👋 Olá! Eu sou a Sil, uma apaixonada por **análise de dados** 📊
 
-Do estudo da mente humana ao design e desenvolvimento de sistemas, minha missão é transformar caos em leveza através da ciência (e de um pouquinho de magia!). 
+Atuando com People Analytics no RH, me encontrei na análise de dados e decidi fazer a minha transição de carreira para a tecnologia. Atualmente, estou cursando 2° período de **Análise e Desenvolvimento de Sistemas**💻.
 
-Apaixonada por cachorros e estudiosa compulsiva, adoro encarar o terminal como meu livro de poções: quanto mais o código dá errado na primeira tentativa, mais fascinada eu fico em fazer a mágica acontecer! ⚡
+Meu foco de atuação está na união entre **Análise de Dados, Automação de processos e Inteligência Artificial**. 
+Meu objetivo é transformar grandes volumes de dados (qualitativos e quantitativos) e processos complexos em decisões pautadas em evidências, automações eficientes e inteligência operacional. ⚡
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA3ZHAycW00eTVhbWY1bHVlOG5ycTJxbDltMGo4NGp3OXQ3OHJheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YUzHyNHMqo2k/giphy.gif" alt="Hermione" width="50%">
@@ -33,7 +34,7 @@ Apaixonada por cachorros e estudiosa compulsiva, adoro encarar o terminal como m
 
 🎓 Bacharel em Psicologia pela UFPR e apaixonada por aliar o conhecimento do comportamento humano com a tecnologia. 
 
-✨ Comecei a transição de carreira estudando UX Design, e em seguida, passei a me aventurar em projetos de **Inteligência Artificial (RAG, Streamlit, Groq), Análise de dados e Python** (e adorei!).
+✨ Comecei a transição de carreira estudando **People Analytics**, e em seguida, passei a me aventurar em projetos de **Inteligência Artificial (RAG, Streamlit, Groq), Análise de dados e Python** (e adorei!).
 
 🫶 Amo cachorros (tenho 2), adoro assistir séries de mistério, ler e tomar café.
 
